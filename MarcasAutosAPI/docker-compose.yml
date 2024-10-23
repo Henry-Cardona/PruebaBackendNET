@@ -1,0 +1,38 @@
+version: '3.8'
+
+services:
+  postgres:
+    image: postgres:15
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: admin
+      POSTGRES_DB: MarcasAutosDB
+    ports:
+      - "5433:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+    networks:
+      - app-network
+
+  api:
+    build:
+      context: .
+    ports:
+      - "5000:8080"
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+      - ConnectionStrings__PostgresConnection=Host=postgres;Port=5432;Database=MarcasAutosDB;Username=postgres;Password=admin
+    depends_on:
+      - postgres
+    networks:
+      - app-network
+
+    # Ejecuta migraciones antes de iniciar la API
+    command: >
+      sh -c "dotnet ef database update --no-build --project /app/MarcasAutosAPI.csproj && dotnet MarcasAutosAPI.dll"
+
+volumes:
+  postgres_data:
+
+networks:
+  app-network:
