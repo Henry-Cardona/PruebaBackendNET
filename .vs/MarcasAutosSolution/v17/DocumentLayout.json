@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\henry\\OneDrive\\Documents\\GitHub\\MarcasAutosPrueba\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{69B81B88-31B8-458D-8D8B-73FA99F86A48}|MarcasAutosAPI\\MarcasAutosAPI.csproj|c:\\users\\henry\\onedrive\\documents\\github\\marcasautosprueba\\marcasautosapi\\controllers\\marcasautoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{69B81B88-31B8-458D-8D8B-73FA99F86A48}|MarcasAutosAPI\\MarcasAutosAPI.csproj|solutionrelative:marcasautosapi\\controllers\\marcasautoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1B85FD0B-31C0-4A5B-9328-3B7533867915}|MarcasAutosAPI.Tests\\MarcasAutosAPI.Tests.csproj|c:\\users\\henry\\onedrive\\documents\\github\\marcasautosprueba\\marcasautosapi.tests\\marcasautosapi.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1B85FD0B-31C0-4A5B-9328-3B7533867915}|MarcasAutosAPI.Tests\\MarcasAutosAPI.Tests.csproj|solutionrelative:marcasautosapi.tests\\marcasautosapi.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "MarcasAutosController.cs",
-              "DocumentMoniker": "C:\\Users\\henry\\OneDrive\\Documents\\GitHub\\MarcasAutosPrueba\\MarcasAutosAPI\\Controllers\\MarcasAutosController.cs",
-              "RelativeDocumentMoniker": "MarcasAutosAPI\\Controllers\\MarcasAutosController.cs",
-              "ToolTip": "C:\\Users\\henry\\OneDrive\\Documents\\GitHub\\MarcasAutosPrueba\\MarcasAutosAPI\\Controllers\\MarcasAutosController.cs",
-              "RelativeToolTip": "MarcasAutosAPI\\Controllers\\MarcasAutosController.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAACQAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T05:13:00.772Z",
+              "Title": "MarcasAutosAPI.Tests",
+              "DocumentMoniker": "C:\\Users\\henry\\OneDrive\\Documents\\GitHub\\MarcasAutosPrueba\\MarcasAutosAPI.Tests\\MarcasAutosAPI.Tests.csproj",
+              "RelativeDocumentMoniker": "MarcasAutosAPI.Tests\\MarcasAutosAPI.Tests.csproj",
+              "ToolTip": "C:\\Users\\henry\\OneDrive\\Documents\\GitHub\\MarcasAutosPrueba\\MarcasAutosAPI.Tests\\MarcasAutosAPI.Tests.csproj",
+              "RelativeToolTip": "MarcasAutosAPI.Tests\\MarcasAutosAPI.Tests.csproj",
+              "ViewState": "AgIAABMAAAAAAAAAAAAkwCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-24T14:28:27.224Z",
               "EditorCaption": ""
             }
           ]

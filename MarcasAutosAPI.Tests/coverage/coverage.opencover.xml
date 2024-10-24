@@ -2,9 +2,9 @@
 <CoverageSession>
   <Summary numSequencePoints="113" visitedSequencePoints="82" numBranchPoints="14" visitedBranchPoints="11" sequenceCoverage="72.56" branchCoverage="78.57" maxCyclomaticComplexity="24" minCyclomaticComplexity="24" visitedClasses="4" numClasses="5" visitedMethods="12" numMethods="13" />
   <Modules>
-    <Module hash="DE343DF1-477C-4CBE-9ABA-6B99DFBC9C89">
+    <Module hash="762A68CA-3E8D-4F52-954D-FCE3D61A021D">
       <ModulePath>MarcasAutosAPI.dll</ModulePath>
-      <ModuleTime>2024-10-24T06:35:36</ModuleTime>
+      <ModuleTime>2024-10-24T02:31:29</ModuleTime>
       <ModuleName>MarcasAutosAPI</ModuleName>
       <Files>
         <File uid="1" fullPath="C:\Users\henry\OneDrive\Documents\GitHub\MarcasAutosPrueba\MarcasAutosAPI\Program.cs" />

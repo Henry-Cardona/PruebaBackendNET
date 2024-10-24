@@ -8,6 +8,7 @@
     <IsPackable>false</IsPackable>
     <IsTestProject>true</IsTestProject>
   </PropertyGroup>
+    
 
   <ItemGroup>
     <PackageReference Include="coverlet.collector" Version="6.0.2">
@@ -31,7 +32,12 @@
     <Using Include="Xunit" />
   </ItemGroup>
 
-  <ItemGroup>
+	<PropertyGroup>
+		<ExcludeByFile>**/Migrations/*.cs</ExcludeByFile>
+	</PropertyGroup>
+
+
+	<ItemGroup>
     <ProjectReference Include="..\MarcasAutosAPI\MarcasAutosAPI.csproj" />
   </ItemGroup>
 
