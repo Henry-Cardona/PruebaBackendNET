@@ -5,22 +5,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{69B81B88-31B8-458D-8D8B-73FA99F86A48}|MarcasAutosAPI\\MarcasAutosAPI.csproj|c:\\users\\henry\\onedrive\\documents\\github\\marcasautosprueba\\marcasautosapi\\controllers\\marcasautoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{69B81B88-31B8-458D-8D8B-73FA99F86A48}|MarcasAutosAPI\\MarcasAutosAPI.csproj|solutionrelative:marcasautosapi\\controllers\\marcasautoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{69B81B88-31B8-458D-8D8B-73FA99F86A48}|MarcasAutosAPI\\MarcasAutosAPI.csproj|c:\\users\\henry\\onedrive\\documents\\github\\marcasautosprueba\\marcasautosapi\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{69B81B88-31B8-458D-8D8B-73FA99F86A48}|MarcasAutosAPI\\MarcasAutosAPI.csproj|solutionrelative:marcasautosapi\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{69B81B88-31B8-458D-8D8B-73FA99F86A48}|MarcasAutosAPI\\MarcasAutosAPI.csproj|c:\\users\\henry\\onedrive\\documents\\github\\marcasautosprueba\\marcasautosapi\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{69B81B88-31B8-458D-8D8B-73FA99F86A48}|MarcasAutosAPI\\MarcasAutosAPI.csproj|solutionrelative:marcasautosapi\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{69B81B88-31B8-458D-8D8B-73FA99F86A48}|MarcasAutosAPI\\MarcasAutosAPI.csproj|c:\\users\\henry\\onedrive\\documents\\github\\marcasautosprueba\\marcasautosapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{69B81B88-31B8-458D-8D8B-73FA99F86A48}|MarcasAutosAPI\\MarcasAutosAPI.csproj|solutionrelative:marcasautosapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1B85FD0B-31C0-4A5B-9328-3B7533867915}|MarcasAutosAPI.Tests\\MarcasAutosAPI.Tests.csproj|c:\\users\\henry\\onedrive\\documents\\github\\marcasautosprueba\\marcasautosapi.tests\\marcasautoscontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1B85FD0B-31C0-4A5B-9328-3B7533867915}|MarcasAutosAPI.Tests\\MarcasAutosAPI.Tests.csproj|solutionrelative:marcasautosapi.tests\\marcasautoscontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -40,61 +24,9 @@
               "RelativeDocumentMoniker": "MarcasAutosAPI\\Controllers\\MarcasAutosController.cs",
               "ToolTip": "C:\\Users\\henry\\OneDrive\\Documents\\GitHub\\MarcasAutosPrueba\\MarcasAutosAPI\\Controllers\\MarcasAutosController.cs",
               "RelativeToolTip": "MarcasAutosAPI\\Controllers\\MarcasAutosController.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACQAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-23T14:08:23.508Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "docker-compose.yml",
-              "DocumentMoniker": "C:\\Users\\henry\\OneDrive\\Documents\\GitHub\\MarcasAutosPrueba\\MarcasAutosAPI\\docker-compose.yml",
-              "RelativeDocumentMoniker": "MarcasAutosAPI\\docker-compose.yml",
-              "ToolTip": "C:\\Users\\henry\\OneDrive\\Documents\\GitHub\\MarcasAutosPrueba\\MarcasAutosAPI\\docker-compose.yml",
-              "RelativeToolTip": "MarcasAutosAPI\\docker-compose.yml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
-              "WhenOpened": "2024-10-23T14:08:06.534Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Dockerfile",
-              "DocumentMoniker": "C:\\Users\\henry\\OneDrive\\Documents\\GitHub\\MarcasAutosPrueba\\MarcasAutosAPI\\Dockerfile",
-              "RelativeDocumentMoniker": "MarcasAutosAPI\\Dockerfile",
-              "ToolTip": "C:\\Users\\henry\\OneDrive\\Documents\\GitHub\\MarcasAutosPrueba\\MarcasAutosAPI\\Dockerfile",
-              "RelativeToolTip": "MarcasAutosAPI\\Dockerfile",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-10-23T14:08:01.889Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\henry\\OneDrive\\Documents\\GitHub\\MarcasAutosPrueba\\MarcasAutosAPI\\Program.cs",
-              "RelativeDocumentMoniker": "MarcasAutosAPI\\Program.cs",
-              "ToolTip": "C:\\Users\\henry\\OneDrive\\Documents\\GitHub\\MarcasAutosPrueba\\MarcasAutosAPI\\Program.cs",
-              "RelativeToolTip": "MarcasAutosAPI\\Program.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAACMAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-23T14:06:18.084Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "MarcasAutosControllerTest.cs",
-              "DocumentMoniker": "C:\\Users\\henry\\OneDrive\\Documents\\GitHub\\MarcasAutosPrueba\\MarcasAutosAPI.Tests\\MarcasAutosControllerTest.cs",
-              "RelativeDocumentMoniker": "MarcasAutosAPI.Tests\\MarcasAutosControllerTest.cs",
-              "ToolTip": "C:\\Users\\henry\\OneDrive\\Documents\\GitHub\\MarcasAutosPrueba\\MarcasAutosAPI.Tests\\MarcasAutosControllerTest.cs",
-              "RelativeToolTip": "MarcasAutosAPI.Tests\\MarcasAutosControllerTest.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-23T06:57:44.313Z",
+              "WhenOpened": "2024-10-24T05:13:00.772Z",
               "EditorCaption": ""
             }
           ]

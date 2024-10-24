@@ -21,20 +21,30 @@ namespace MarcasAutosAPI.Controllers
         [ProducesResponseType(StatusCodes.Status200OK)]
         [ProducesResponseType(StatusCodes.Status404NotFound)]
         public async Task<ActionResult<IEnumerable<MarcaAuto>>> GetMarcasAutos()
-        {
-            var marcas = await _context.MarcasAutos.ToListAsync();
-
-            if (marcas == null || marcas.Count == 0)
+        {   
+            try
             {
-                return NotFound();
+                var marcas = await _context.MarcasAutos.ToListAsync();
+
+                if (marcas.Count == 0)
+                {
+                    return NotFound();
+                }
+
+                return Ok(marcas);
             }
-
-            return Ok(marcas);
-        }
-
-        private bool MarcaAutoExists(int id)
-        {
-            return _context.MarcasAutos.Any(e => e.Id == id);
+            catch (DbUpdateException dbEx)
+            {
+                return StatusCode(StatusCodes.Status500InternalServerError, "Error al acceder a la base de datos.");
+            }
+            catch (InvalidOperationException invalidOpEx)
+            {
+                return StatusCode(StatusCodes.Status500InternalServerError, "Operación inválida.");
+            }
+            catch (Exception ex)
+            {
+                return StatusCode(StatusCodes.Status500InternalServerError, "Ocurrió un error inesperado.");
+            }
         }
     }
 }

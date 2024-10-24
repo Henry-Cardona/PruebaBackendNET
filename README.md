@@ -44,5 +44,6 @@ La API incluye campos de auditoría en la tabla de marcas de automóviles para r
 4. Ver los logs
 
 ## Ejecutar Pruebas
-    dotnet test, desde la carpeta raiz del proyecto de pruebas
+    dotnet test /p:CollectCoverage=true /p:CoverletOutput=./coverage/ /p:CoverletOutputFormat=opencover /p:ExcludeByFile=\"/Migrations/*.cs\" 
+    desde la carpeta raiz del proyecto de pruebas
 

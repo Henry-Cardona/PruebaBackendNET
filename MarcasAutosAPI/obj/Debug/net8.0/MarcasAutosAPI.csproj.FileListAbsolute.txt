@@ -103,6 +103,7 @@ C:\Users\henry\OneDrive\Documents\GitHub\MarcasAutosPrueba\MarcasAutosAPI\obj\De
 C:\Users\henry\OneDrive\Documents\GitHub\MarcasAutosPrueba\MarcasAutosAPI\obj\Debug\net8.0\MarcasAutosAPI.csproj.CoreCompileInputs.cache
 C:\Users\henry\OneDrive\Documents\GitHub\MarcasAutosPrueba\MarcasAutosAPI\obj\Debug\net8.0\MarcasAutosAPI.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\henry\OneDrive\Documents\GitHub\MarcasAutosPrueba\MarcasAutosAPI\obj\Debug\net8.0\MarcasAutosAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\henry\OneDrive\Documents\GitHub\MarcasAutosPrueba\MarcasAutosAPI\obj\Debug\net8.0\MarcasAutosAPI.sourcelink.json
 C:\Users\henry\OneDrive\Documents\GitHub\MarcasAutosPrueba\MarcasAutosAPI\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\henry\OneDrive\Documents\GitHub\MarcasAutosPrueba\MarcasAutosAPI\obj\Debug\net8.0\staticwebassets.development.json
 C:\Users\henry\OneDrive\Documents\GitHub\MarcasAutosPrueba\MarcasAutosAPI\obj\Debug\net8.0\staticwebassets\msbuild.MarcasAutosAPI.Microsoft.AspNetCore.StaticWebAssets.props
